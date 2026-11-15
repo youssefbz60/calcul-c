@@ -11,6 +11,7 @@ int main() {
     printf("| Entrer respectivement les deux valeurs de a et b :");
     scanf("%f %f",&a ,&b);
     printf("|                   La somme est        : %.2f                   |", a+b);
+    printf("\n|                   La soustraction est : %.2f                   |", a-b);
     printf("\n|----------------------------------------------------------------|\n");
 
    return 0;
