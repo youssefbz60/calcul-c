@@ -1,0 +1,7 @@
+#executable files 
+main
+main.exe
+#files objects
+*.o
+#folder screenshots
+screenshots
